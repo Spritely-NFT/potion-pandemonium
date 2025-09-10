@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .Body__cls-1{opacity:0.7}.Body__cls-2{fill:#212121}.Body__cls-3,.Body__cls-4{fill:#10cdf9}.Body__cls-4{opacity:0.4}</style>
+  </defs>
+  <path class="Body__cls-2"
+    d="M240 206 240 161 235 161 235 156 230 156 230 151 170 151 170 156 165 156 165 161 160 161 160 206 168 206 168 214 191 214 191 221 184 221 184 229 176 229 176 245 176 253 184 253 184 262 184 276 199 276 199 262 213 262 213 214 200 214 200 206 240 206z"
+    shape-rendering="crispEdges" />
+  <path id="Body__Left_Eye" data-name="Left Eye" class="Body__cls-3" d="M168 175H176V183H168z"
+    shape-rendering="crispEdges" />
+  <path id="Body__Right_Eye" data-name="Right Eye" class="Body__cls-3" d="M215 175H223V183H215z"
+    shape-rendering="crispEdges" />
+  <path id="Body__Mouth" class="Body__cls-3" d="M188 194H203V196H188z" shape-rendering="crispEdges" />
+  <path id="Body__Left_Cheek" data-name="Left Cheek" class="Body__cls-4" d="M168 185H176V189H168z"
+    shape-rendering="crispEdges" />
+  <path id="Body__Right_Cheek" data-name="Right Cheek" class="Body__cls-4" d="M215 185H223V189H215z"
+    shape-rendering="crispEdges" />
+  <path
+    d="M232 214 232 206 200 206 200 214 213 214 213 262 216 262 216 276 231 276 231 262 231 253 239 253 239 245 239 229 231 229 231 221 223 221 223 214 232 214zM240 161 235 161 235 156 230 156 230 161 232 161 232 206 240 206 240 161zM225 151H230V156H225z"
+    shape-rendering="crispEdges" />
+  <defs>
+    <style>
+      .Hair__cls-1{fill:#d8a4cd}.Hair__cls-2{fill:#fccdf0}.Hair__cls-3{fill:#fce6f8}.Hair__cls-4{fill:#b777ae}</style>
+  </defs>
+  <path class="Hair__cls-1"
+    d="M238 155 238 143 213 143 213 170 232 170 232 214 223 214 223 221 231 221 231 229 239 229 239 245 239 253 231 253 231 262 231 276 240 276 247 276 247 155 238 155z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-2"
+    d="M164 143 164 154 154 154 154 166 154 170 154 276 160 276 168 276 176 276 184 276 184 253 176 253 176 229 184 229 184 221 191 221 191 214 176 214 168 214 168 206 160 206 160 170 207 170 207 161 213 161 213 143 164 143z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-1" d="M199 262H216V276H199zM155 193H157V195H155z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-3" d="M185 215H187V217H185z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-1" d="M178 220H180V222H178zM157 210H159V212H157z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-3" d="M162 213H164V215H162z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-1" d="M173 240H175V242H173z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-3" d="M169 244H171V246H169z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-1"
+    d="M161 232H163V234H161zM171 235H173V237H171zM162 248H164V250H162zM173 219H175V221H173zM171 256H173V258H171z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-3" d="M173 270H175V272H173z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-1" d="M160 264H162V266H160z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-3"
+    d="M163 227H165V229H163zM156 257H158V259H156zM156 189H158V191H156zM198.66 153.84H200.66V155.84H198.66zM161.66 164.84H163.66V166.84H161.66zM160.66 156.84H162.66V158.84H160.66zM166.66 150.84H168.66V152.84H166.66zM177.66 146.84H179.66V148.84H177.66zM201.66 164.84H203.66V166.84H201.66zM203.66 149.84H205.66V151.84H203.66z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-1" d="M196.66 160.84H198.66V162.84H196.66z" shape-rendering="crispEdges" />
+  <path class="Hair__cls-4"
+    d="M218.66 160.84H220.66V162.84H218.66zM229.66 147.84H231.66V149.84H229.66zM240.66 189.84H242.66V191.84H240.66zM236.66 193.84H238.66V195.84H236.66zM234.66 215.84H236.66V217.84H234.66zM239.66 268.84H241.66V270.84H239.66zM237.66 262.84H239.66V264.84H237.66zM204.66 266.84H206.66V268.84H204.66zM208.66 268.84H210.66V270.84H208.66z"
+    shape-rendering="crispEdges" />
+  <path class="Hair__cls-1"
+    d="M181.66 144.84H183.66V146.84H181.66zM170.66 156.84H172.66V158.84H170.66z"
+    shape-rendering="crispEdges" />
+  <defs>
+    <style>.Diadem__cls-1{fill:#fc9815}.Diadem__cls-2{fill:#fce7d4}</style>
+  </defs>
+  <path class="Diadem__cls-1"
+    d="M160 170 160 175 154 175 154 180 150 180 150 185 155 185 155 180 161 180 161 175 165 175 165 170 160 170zM145 175H150V180H145zM140 170H145V175H140zM145 165H150V170H145z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(295 10) rotate(90)" d="M140 150H145V155H140z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(255 10) rotate(90)" d="M120 130H125V135H120z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(251 331) rotate(180)" d="M124 164H127V167H124z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(259 351) rotate(180)" d="M128 174H131V177H128z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(285 -60) rotate(90)" d="M170 110H175V115H170z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(250 -65) rotate(90)" d="M155 90H160V95H155z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(311 261) rotate(180)" d="M154 129H157V132H154z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(319 281) rotate(180)" d="M158 139H161V142H158z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(291 271) rotate(180)" d="M144 134H147V137H144z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(299 291) rotate(180)" d="M148 144H151V147H148z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(331 271) rotate(180)" d="M164 134H167V137H164z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(339 291) rotate(180)" d="M168 144H171V147H168z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(373 -18) rotate(90)" d="M193 175H198V180H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1"
+    d="M214 156 214 151 201 151 201 95 190 95 190 151 177 151 177 156 168 156 168 165 177 165 190 165 190 170 201 170 201 165 214 165 223 165 223 156 214 156z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(283 -108) rotate(90)" d="M193 85H198V90H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1"
+    d="M227 170H232V175H227zM232 175H237V180H232zM237 180H242V185H237zM242 175H247V180H242zM247 170H252V175H247zM242 165H247V170H242z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(401 -96) rotate(90)" d="M246 150H251V155H246z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(401 -136) rotate(90)" d="M266 130H271V135H266z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(331 -106) rotate(90)" d="M216 110H221V115H216z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(326 -141) rotate(90)" d="M231 90H236V95H231z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(531 331) rotate(180)" d="M264 164H267V167H264z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(523 351) rotate(180)" d="M260 174H263V177H260z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(463 261) rotate(180)" d="M230 129H233V132H230z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(471 281) rotate(180)" d="M234 139H237V142H234z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(443 271) rotate(180)" d="M220 134H223V137H220z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(451 291) rotate(180)" d="M224 144H227V147H224z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(483 271) rotate(180)" d="M240 134H243V137H240z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-1" transform="translate(491 291) rotate(180)" d="M244 144H247V147H244z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(23 368) rotate(-90)" d="M193 170H198V175H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(103 288) rotate(-90)" d="M193 90H198V95H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(90 285) rotate(-90)" d="M185 95H190V100H185z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(80 285) rotate(-90)" d="M180 100H185V105H180z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(70 285) rotate(-90)" d="M175 105H180V110H175z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(60 295) rotate(-90)" d="M175 115H180V120H175z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(60 305) rotate(-90)" d="M180 120H185V125H180z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(60 315) rotate(-90)" d="M185 125H190V130H185z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(96 331) rotate(-90)" d="M211 115H216V120H211z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(86 331) rotate(-90)" d="M206 120H211V125H206z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(76 331) rotate(-90)" d="M201 125H206V130H201z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(55 352) rotate(-90)" d="M201 146H206V151H201z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(31 360) rotate(-90)" d="M193 162H198V167H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(40 351) rotate(-90)" d="M193 153H198V158H193z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(39 336) rotate(-90)" d="M185 146H190V151H185z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(63 370) rotate(-90)" d="M214 151H219V156H214z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(21 328) rotate(-90)" d="M172 151H177V156H172z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(60 255) rotate(-90)" d="M155 95H160V100H155z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(10 255) rotate(-90)" d="M130 120H135V125H130z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(0 255) rotate(-90)" d="M125 125H130V130H125z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(136 371) rotate(-90)" d="M251 115H256V120H251z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(136 381) rotate(-90)" d="M256 120H261V125H256z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(136 391) rotate(-90)" d="M261 125H266V130H261z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(106 401) rotate(-90)" d="M251 145H256V150H251z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(106 301) rotate(-90)" d="M201 95H206V100H201z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(106 311) rotate(-90)" d="M206 100H211V105H206z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2" transform="translate(106 321) rotate(-90)" d="M211 105H216V110H211z"
+    shape-rendering="crispEdges" />
+  <path class="Diadem__cls-2"
+    d="M145 155H150V160H145zM160 165 155 165 155 160 150 160 150 165 154 165 154 170 160 170 190 170 190 165 160 165zM240 155 240 160 236 160 236 165 241 165 241 160 246 160 246 155 240 155zM201 165 201 170 231 170 236 170 236 165 231 165 201 165zM160 100 160 99 159 99 159 139 160 139 160 105 165 105 165 100 160 100zM155 100 150 100 150 105 155 105 155 129 156 129 156 99 155 99 155 100zM145 110 140 110 140 115 145 115 145 134 146 134 146 110 149 110 149 144 150 144 150 110 150 105 145 105 145 110zM135 115H140V120H135zM130 140 130 135 125 135 125 140 125 164 126 164 126 140 129 140 129 174 130 174 130 145 135 145 135 140 130 140zM135 145H140V150H135zM261 135 261 140 256 140 256 145 261 145 261 174 262 174 262 140 265 140 265 164 266 164 266 140 266 135 261 135zM165 105 165 110 165 134 166 134 166 110 169 110 169 144 170 144 170 110 170 105 165 105zM236 100 236 99 236 95 231 95 231 97 231 100 226 100 226 105 231 105 231 129 232 129 232 100 235 100 235 139 236 139 236 105 241 105 241 100 236 100zM221 105 221 110 221 134 222 134 222 110 225 110 225 144 226 144 226 110 226 105 221 105zM246 110 246 105 241 105 241 110 241 134 242 134 242 110 245 110 245 144 246 144 246 115 251 115 251 110 246 110z"
+    shape-rendering="crispEdges" />
+  <defs>
+    <style>.Outfit__cls-1{fill:#fc9815}.Outfit__cls-2{fill:#ea850c}</style>
+  </defs>
+  <path class="Outfit__cls-1"
+    d="M184 262H186V264H184zM186 264H188V266H186zM188 262H190V264H188zM190 264H192V266H190zM192 262H194V264H192zM194 264H196V266H194zM196 262H198V264H196zM198 264H199V266H198zM184 237 184 241 184 243 185 243 185 241 186 241 186 243 187 243 187 241 188 241 188 243 189 243 189 241 190 241 190 243 191 243 191 241 192 241 192 243 193 243 193 241 194 241 194 243 195 243 195 241 196 241 196 243 197 243 197 241 198 241 198 243 199 243 199 241 200 241 200 243 201 243 201 241 202 241 202 243 203 243 203 241 204 241 204 243 205 243 205 241 206 241 206 243 207 243 207 241 208 241 208 243 209 243 209 241 210 241 210 243 211 243 211 241 212 241 212 243 213 243 213 241 213 237 184 237zM184 246H186V248H184zM186 248H188V250H186zM188 246H190V248H188zM190 248H192V250H190zM192 246H194V248H192zM194 248H196V250H194zM196 246H198V248H196zM198 248H200V250H198zM200 246H202V248H200zM202 248H204V250H202zM204 246H206V248H204zM206 248H208V250H206zM208 246H210V248H208zM210 248H212V250H210zM212 246H214V248H212z"
+    shape-rendering="crispEdges" />
+  <path class="Outfit__cls-2"
+    d="M214 248H216V250H214zM213 246H214V248H213zM216 262H218V264H216zM218 264H220V266H218zM220 262H222V264H220zM222 264H224V266H222zM224 262H226V264H224zM226 264H228V266H226zM228 262H230V264H228zM230 264H231V266H230zM213 237 213 241 214 241 214 243 215 243 215 241 216 241 216 243 217 243 217 241 218 241 218 243 219 243 219 241 220 241 220 243 221 243 221 241 222 241 222 243 223 243 223 241 224 241 224 243 225 243 225 241 226 241 226 243 227 243 227 241 228 241 228 243 229 243 229 241 230 241 230 243 231 243 231 241 231 237 213 237zM216 246H218V248H216zM218 248H220V250H218zM220 246H222V248H220zM222 248H224V250H222zM224 246H226V248H224zM226 248H228V250H226zM228 246H230V248H228zM230 248H231V250H230z"
+    shape-rendering="crispEdges" />
+</svg>

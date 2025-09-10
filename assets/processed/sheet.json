@@ -1,0 +1,318 @@
+{"frames": {
+
+"Al's_Recipe_Card.png":
+{
+	"frame": {"x":1091,"y":5,"w":110,"h":127},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":127},
+	"sourceSize": {"w":110,"h":127},
+	"anchor": {"x":0,"y":0}
+},
+"Als_Bottle.png":
+{
+	"frame": {"x":1166,"y":559,"w":62,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":116},
+	"sourceSize": {"w":62,"h":116},
+	"anchor": {"x":0,"y":0}
+},
+"Aquatica_Potion.png":
+{
+	"frame": {"x":1197,"y":138,"w":50,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":114},
+	"sourceSize": {"w":50,"h":114},
+	"anchor": {"x":0,"y":0}
+},
+"Aquatica_Potion_Shadow.png":
+{
+	"frame": {"x":1197,"y":258,"w":50,"h":114},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":114},
+	"sourceSize": {"w":50,"h":114},
+	"anchor": {"x":0,"y":0}
+},
+"Bummer_Potion.png":
+{
+	"frame": {"x":5,"y":836,"w":377,"h":158},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":377,"h":158},
+	"sourceSize": {"w":377,"h":158},
+	"anchor": {"x":0,"y":0}
+},
+"Bummer_Text.png":
+{
+	"frame": {"x":5,"y":547,"w":951,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":951,"h":260},
+	"sourceSize": {"w":971,"h":260},
+	"anchor": {"x":0,"y":0}
+},
+"Delete_Button.png":
+{
+	"frame": {"x":1091,"y":473,"w":105,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":80},
+	"sourceSize": {"w":105,"h":80},
+	"anchor": {"x":0,"y":0}
+},
+"Delete_Button_Arrow.png":
+{
+	"frame": {"x":912,"y":854,"w":24,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":42},
+	"sourceSize": {"w":24,"h":42},
+	"anchor": {"x":0,"y":0}
+},
+"Delete_Button_Background.png":
+{
+	"frame": {"x":1189,"y":378,"w":95,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":70},
+	"sourceSize": {"w":95,"h":70},
+	"anchor": {"x":0,"y":0}
+},
+"Delete_Button_Foreground.png":
+{
+	"frame": {"x":717,"y":813,"w":95,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":70},
+	"sourceSize": {"w":95,"h":70},
+	"anchor": {"x":0,"y":0}
+},
+"Doomsdom_Potion.png":
+{
+	"frame": {"x":1091,"y":365,"w":92,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":102},
+	"sourceSize": {"w":92,"h":102},
+	"anchor": {"x":0,"y":0}
+},
+"Doomsdom_Potion_Shadow.png":
+{
+	"frame": {"x":1068,"y":559,"w":92,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":102},
+	"sourceSize": {"w":92,"h":102},
+	"anchor": {"x":0,"y":0}
+},
+"Empty_Bottle.png":
+{
+	"frame": {"x":1166,"y":681,"w":62,"h":116},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":116},
+	"sourceSize": {"w":62,"h":116},
+	"anchor": {"x":0,"y":0}
+},
+"Enter_Button.png":
+{
+	"frame": {"x":962,"y":777,"w":98,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":80},
+	"sourceSize": {"w":98,"h":80},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Board.png":
+{
+	"frame": {"x":1202,"y":454,"w":98,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":96},
+	"sourceSize": {"w":98,"h":96},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Nail.png":
+{
+	"frame": {"x":688,"y":836,"w":19,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":29},
+	"sourceSize": {"w":19,"h":29},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Result_Correct.png":
+{
+	"frame": {"x":1234,"y":597,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Result_Miss.png":
+{
+	"frame": {"x":1265,"y":556,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Result_Near.png":
+{
+	"frame": {"x":1295,"y":556,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Shadow.png":
+{
+	"frame": {"x":1091,"y":259,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100},
+	"anchor": {"x":0,"y":0}
+},
+"Guess_Tooltip.png":
+{
+	"frame": {"x":388,"y":836,"w":294,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":294,"h":80},
+	"sourceSize": {"w":294,"h":80},
+	"anchor": {"x":0,"y":0}
+},
+"How_to_Play_Icon.png":
+{
+	"frame": {"x":1234,"y":556,"w":25,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":35},
+	"sourceSize": {"w":25,"h":35},
+	"anchor": {"x":0,"y":0}
+},
+"Mushtopia_Potion.png":
+{
+	"frame": {"x":1166,"y":803,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":100},
+	"sourceSize": {"w":88,"h":100},
+	"anchor": {"x":0,"y":0}
+},
+"Mushtopia_Potion_Shadow.png":
+{
+	"frame": {"x":818,"y":813,"w":88,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":100},
+	"sourceSize": {"w":88,"h":100},
+	"anchor": {"x":0,"y":0}
+},
+"Mysterium_Potion.png":
+{
+	"frame": {"x":1068,"y":667,"w":92,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":102},
+	"sourceSize": {"w":92,"h":102},
+	"anchor": {"x":0,"y":0}
+},
+"Mysterium_Potion_Shadow.png":
+{
+	"frame": {"x":1068,"y":775,"w":92,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":102},
+	"sourceSize": {"w":92,"h":102},
+	"anchor": {"x":0,"y":0}
+},
+"Outer_Limit_Potion.png":
+{
+	"frame": {"x":1207,"y":5,"w":100,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":103},
+	"sourceSize": {"w":100,"h":103},
+	"anchor": {"x":0,"y":0}
+},
+"Outer_Limit_Potion_Shadow.png":
+{
+	"frame": {"x":962,"y":668,"w":100,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":103},
+	"sourceSize": {"w":100,"h":103},
+	"anchor": {"x":0,"y":0}
+},
+"Potion_Medly.png":
+{
+	"frame": {"x":388,"y":922,"w":280,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":280,"h":48},
+	"sourceSize": {"w":280,"h":48},
+	"anchor": {"x":0,"y":0}
+},
+"Settings_Icon.png":
+{
+	"frame": {"x":912,"y":813,"w":40,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":35},
+	"sourceSize": {"w":40,"h":35},
+	"anchor": {"x":0,"y":0}
+},
+"Void_Potion.png":
+{
+	"frame": {"x":962,"y":547,"w":100,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":115},
+	"sourceSize": {"w":100,"h":115},
+	"anchor": {"x":0,"y":0}
+},
+"Void_Potion_Shadow.png":
+{
+	"frame": {"x":1091,"y":138,"w":100,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":115},
+	"sourceSize": {"w":100,"h":115},
+	"anchor": {"x":0,"y":0}
+},
+"Wood_Panel_Tall.png":
+{
+	"frame": {"x":5,"y":5,"w":1080,"h":536},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1080,"h":536},
+	"sourceSize": {"w":1080,"h":536},
+	"anchor": {"x":0,"y":0}
+},
+"Wooden_Shelf.png":
+{
+	"frame": {"x":5,"y":813,"w":706,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":706,"h":17},
+	"sourceSize": {"w":706,"h":17},
+	"anchor": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1324,"h":999},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:617b25d5c4d7ddb86cef870508057998:8d3d988b1ef50adc7db9a99a052fd770:9c44ecd7e9a522007eaff2949095bc1d$"
+}
+}
